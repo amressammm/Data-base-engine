@@ -1,0 +1,4 @@
+Student,name,java.lang.String,False,False,
+Student,enrolled,java.lang.Boolean,True,False,
+Student,id,java.lang.Integer,False,False,
+Student,TouchDate,java.util.Date,False,False
